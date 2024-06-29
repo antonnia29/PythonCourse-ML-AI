@@ -6,9 +6,5 @@ These projects cover the use of sklearn matrics, seaborn matplotlib, SpaCy to te
 It also covers, neural network, natural language processing, mnist, confusion matrix.
 
 
-Kmeans_task.ipynb
-README.md
-decision_tree_titanic-Task21.ipynb
-mnist_task.ipynb
-neural_network-task.ipynb
-sentiment _ analysis.py
+
+https://github.com/antonnia29/PythonCourse-ML-AI/edit/main/README.md#:~:text=sentiment%20_%20analysis.py
