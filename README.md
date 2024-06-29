@@ -7,4 +7,5 @@ It also covers, neural network, natural language processing, mnist, confusion ma
 
 
 
-1. KMeans_task - in this task we look at using the decision tree classifier on titanic dataset. Import matplotlib, sklearn metrics and tree. As part of data preprocessing for the classifiers, One-Hot encoding is used to assign label to the sex and embarked datasets, before splitting and pruning data. then determined most suitable max_depth value against accuracy score. The feature importance shows which of the x features are most important against the y feature. 
+1. KMeans_task -
+2. Decision Tree Titanic - in this task we look at using the decision tree classifier on titanic dataset. Import matplotlib, sklearn metrics and tree. As part of data preprocessing for the classifiers, One-Hot encoding is used to assign label to the sex and embarked datasets, before splitting and pruning data. then determined most suitable max_depth value against accuracy score. The feature importance shows which of the x features are most important against the y feature. 
